@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on BAT
 - 🌱 I’m currently learning Javascript
 - 🎮 I'm currently playing *王者荣耀*
-- 📫 How to reach me: airuikun123@gmail.com
+- 📫 How to reach me:  微信：airuikun   qq:30694912
