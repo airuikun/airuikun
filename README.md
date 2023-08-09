@@ -2,7 +2,9 @@
 
 ### 小蝌蚪profile 👋
 
-- 🔭 I’m currently working on BAT
+- 🔭 I’m currently working on Tencent
 - 🌱 I’m currently learning Javascript
 - 🎮 I'm currently playing *王者荣耀*
-- 📫 How to reach me:  微信：airuikun   qq:30694912
+- 📫 How to reach me:
+   - 微信：airuikun
+   - qq:30694912
